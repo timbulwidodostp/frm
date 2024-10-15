@@ -1,6 +1,8 @@
 # frm
 Fitting regression analysis of fractional response (responses) models Use frm With (In) R Software
 
+https://www.youtube.com/watch?v=I7huGVRUu0M
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
